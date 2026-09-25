@@ -262,13 +262,6 @@ Password-Cracking/
     └── 05-password-recovered.png
 ```
 
-To display a screenshot:
-
-```markdown
-![JTR Password Cracking](JTR/05-cracking-process.png)
-```
-
----
 
 # 🧰 Tools & Technologies
 
@@ -315,14 +308,5 @@ Do not use these techniques against systems, accounts, files, or networks withou
 **Student:** Syed Shaharyar Hussain
 **Batch:** B083
 
-### Modules Completed
-
-* [x] Password Cracking with John the Ripper
-* [x] Password Cracking with Johnny
-* [x] PDF Hash Extraction
-* [x] Password Cracking with Networkwalks Tools
-* [x] Password Recovery Verification
-
----
 
 **Cybersecurity & Ethical Hacking — Week 3**
